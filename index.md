@@ -1,6 +1,6 @@
 # Verein Interessengemeinschaft "make.human.technology"
 
-[https://github.com/makehumantechnology](makehumantechnology auf Github)
+Github:[https://github.com/makehumantechnology](makehumantechnology)
 
 Kontakt: [mailto:makehumantechnology@gmail.com](makehumantechnology@gmail.com)
 
@@ -34,5 +34,3 @@ Für die Genossenschaft sind diese Werte verbindlich.
 
 * Co-Founder, Präsident, CEO und CTO: Markus Leutwyler
 * Co-Founder, Kassier, COO und CFO: Alfred Rist-Vogt
-
-Copyright (c) 2019 [Link](url)
