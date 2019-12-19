@@ -1,22 +1,30 @@
-# helllo world
+# Verein Interessengemeinschaft "make.human.technology"
 
-### Markdown
+(makehumantechnology auf Github)[https://github.com/makehumantechnology]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(makehumantechnology@gmail.com)[mailto:makehumantechnology@gmail.com]
 
-```markdown
-Syntax highlighted code block
+## Unsere Werte
+                    
+Nach dem Ideengut der Gründer stellt die Genossenschaft den Menschen in den Mittelpunkt: Sie dient den Menschen und ist gegenüber den Genossenschaftern, Kunden, Mitarbeitenden, Lieferanten, Sozialpartnern, Behörden und der allgemeinen Öffentlichkeit verantwortungsbewusst. In diesem Sinne        
+                            
+1.  vermittelt die Genossenschaft allen Menschen Wissen sowie Dienstleistungen im Kontext Mensch-Technik-Organisation;         
+                            
+2.  setzt sich die Genossenschaft für eine wettbewerbsorientierte, ethische und umweltgerechte Technologie ein;    
+                            
+3.  setzt sich die Genossenschaft für die Vermittlung von Wissen und für Massnahmen zur Aus- und Weiterbildung aller Menschen ein; 
 
-# Header 1
-## Header 2
-### Header 3
+4.  versteht sich die Genossenschaft als Brücke zwischen Technik und Mensch;  
 
-- Bulleted
-- List
+5.  fördert die Genossenschaft das Technikverständnis aller Menschen;     
 
-1. Numbered
-2. List
+6.  ist die Genossenschaft ist demokratisch organisiert und bekennt sich zu einer auf "Augenhöhe" entsprechenden Struktur und Corporate Governance sowie zum Modell von Open Source.
 
-**Bold** and _Italic_ and `Code` text
+(Vollständige Statuten)[https://github.com/makehumantechnology/statuten/blob/master/statuten.md]
 
-[Link](url) and ![Image](src)
+## Team
+
+Co-Founder, Präsident, CEO und CTO: Markus Leutwyler
+Co-Founder, Kassier, COO und CFO: Alfred Rist-Vogt
+
+Copyright (c) 2019 [Link](url) and ![Image](src)
