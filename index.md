@@ -10,8 +10,6 @@ Ziel des Vereins ist diesen in eine gemeinnützige Genossenschaft zu überführe
 
 ## Unsere Werte
           
-
-                
 Nach dem Ideengut der Gründer stellt die Genossenschaft den Menschen in den Mittelpunkt: Sie dient den Menschen und ist gegenüber den Genossenschaftern, Kunden, Mitarbeitenden, Lieferanten, Sozialpartnern, Behörden und der allgemeinen Öffentlichkeit verantwortungsbewusst. In diesem Sinne        
                             
 1.  vermittelt die Genossenschaft allen Menschen Wissen sowie Dienstleistungen im Kontext Mensch-Technik-Organisation;       
